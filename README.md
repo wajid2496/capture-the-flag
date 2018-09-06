@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.io/abhi1d/https://github.com/abhi1d/capture-the-flag.svg)](http://hits.dwyl.io/abhi1d/https://github.com/abhi1d/capture-the-flag)
+
+
 Welcome to the AWS CodeStar sample web application
 ==================================================
 
